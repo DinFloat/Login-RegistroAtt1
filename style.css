@@ -69,14 +69,14 @@
             outline: none;
             font-weight: 800;
             letter-spacing: 2.5px;
-            background: #ffcbdb;
-            color: #830c62;
+            background: #466671;
+            color: #94c8d9;
             cursor: pointer;
             box-shadow: 0px 10px 40px #00000053;
         }
 
         .link{
             text-decoration: none;
-            color: #ffcbdb;
+            color: #466671;
             font-size: 10pt;
         }
