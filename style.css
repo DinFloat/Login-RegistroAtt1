@@ -75,7 +75,12 @@
 
         .link{
             text-decoration: none;
-            color: #466671;
+            color: #2a3f46;
             font-size: 10pt;
         }
     
+        .paragrafo{
+            text-decoration: none;
+            color: #466671;
+            font-size: 10pt;
+        }
