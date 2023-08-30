@@ -45,7 +45,7 @@
             background:#94c8d9;
             color: #94c8d9;
             font-size: 12pt;
-            outline: none;
+            outline: solid;
             box-sizing: border-box;
         }
 
