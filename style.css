@@ -40,7 +40,7 @@
             width: 100%;
             border-width: 1.5px;
             border-color: #466671;
-            border-radius: 3px;
+            border-radius: 5px;
             padding: 15px;
             background:#94c8d9;
             color: #94c8d9;
@@ -64,7 +64,7 @@
             padding: 16px 0px;
             margin: 25px;
             border: none;
-            border-radius: 3px;
+            border-radius: 5px;
             outline: none;
             font-weight: 800;
             letter-spacing: 2.5px;
